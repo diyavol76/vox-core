@@ -1,0 +1,3 @@
+DATA_DEV:
+  AUDIO_PATH: 'C:\data\cv-valid-dev\cv-valid-dev\genderdata'
+  TEXT_PATH: 'C:\data\cv-valid-dev.csv'
